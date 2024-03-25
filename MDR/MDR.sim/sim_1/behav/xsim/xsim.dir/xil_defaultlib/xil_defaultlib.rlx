@@ -1,0 +1,11 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/Verilog Projects/MDR/MDR.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/Comb_Circuit.v,1696496760,verilog,,D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/D_FF.v,,Comb_Circuit,,,,,,,,
+D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/D_FF.v,1696496758,verilog,,D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/Decoder.v,,D_FF,,,,,,,,
+D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/Decoder.v,1696497693,verilog,,D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/Temp_Reg.v,,Decoder,,,,,,,,
+D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/MDR.v,1696499519,verilog,,D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/Test.v,,MDR,,,,,,,,
+D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/Temp_Reg.v,1696497698,verilog,,D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/MDR.v,,Temp_Reg,,,,,,,,
+D:/Verilog Projects/MDR/MDR.srcs/sources_1/new/Test.v,1696497454,verilog,,,,Test,,,,,,,,

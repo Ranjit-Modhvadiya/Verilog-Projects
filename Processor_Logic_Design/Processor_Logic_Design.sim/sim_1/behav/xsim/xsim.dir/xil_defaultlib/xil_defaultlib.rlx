@@ -1,0 +1,20 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sim_1/new/Processor_test.v,1696402493,verilog,,,,Test,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/ALU.v,1696720640,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Accumulator.v,,ALU,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Accumulator.v,1696720642,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Comb_Circuit.v,,Accumulator,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Comb_Circuit.v,1696665618,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/D_FF.v,,Comb_Circuit,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/D_FF.v,1696185377,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Decoder.v,,D_FF,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Decoder.v,1696525533,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/FA.v,,Decoder,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/FA.v,1696287984,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/MDR.v,,FA,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/MDR.v,1696525533,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/MUX.v,,MDR,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/MUX.v,1696525533,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/One_Stage.v,,MUX,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/One_Stage.v,1696351767,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Processor_Logic.v,,One_Stage,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Processor_Logic.v,1696665232,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Reg_File.v,,Processor_Logic,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Reg_File.v,1696351591,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Shifter.v,,Reg_File,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Shifter.v,1696282830,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Stat_Reg.v,,Shifter,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Stat_Reg.v,1696353127,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Temp_Reg.v,,Stat_Reg,,,,,,,,
+D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Temp_Reg.v,1696186649,verilog,,D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sim_1/new/Processor_test.v,,Temp_Reg,,,,,,,,

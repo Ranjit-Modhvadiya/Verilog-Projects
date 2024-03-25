@@ -1,0 +1,330 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Dec 14 12:52:14 2023
+# Process ID: 11372
+# Current directory: D:/Verilog Projects/Checking_2/Checking_2.runs/synth_1
+# Command line: vivado.exe -log Processor.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Processor.tcl
+# Log file: D:/Verilog Projects/Checking_2/Checking_2.runs/synth_1/Processor.vds
+# Journal file: D:/Verilog Projects/Checking_2/Checking_2.runs/synth_1\vivado.jou
+# Running On: Terry, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 8, Host memory: 6349 MB
+#-----------------------------------------------------------
+source Processor.tcl -notrace
+create_project: Time (s): cpu = 00:00:06 ; elapsed = 00:00:12 . Memory (MB): peak = 448.664 ; gain = 163.875
+Command: read_checkpoint -auto_incremental -incremental {D:/Verilog Projects/Checking_2/Checking_2.srcs/utils_1/imports/synth_1/Processor.dcp}
+INFO: [Vivado 12-5825] Read reference checkpoint from D:/Verilog Projects/Checking_2/Checking_2.srcs/utils_1/imports/synth_1/Processor.dcp for incremental synthesis
+INFO: [Vivado 12-7989] Please ensure there are no constraint changes
+Command: synth_design -top Processor -part xc7a200tfbg676-2
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 9792
+INFO: [Synth 8-11241] undeclared symbol 'mode', assumed default net type 'wire' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/ACC.v:9]
+INFO: [Synth 8-11241] undeclared symbol 't0', assumed default net type 'wire' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Comb_Circuit.v:6]
+INFO: [Synth 8-11241] undeclared symbol 't1', assumed default net type 'wire' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Comb_Circuit.v:8]
+INFO: [Synth 8-11241] undeclared symbol 't2', assumed default net type 'wire' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Comb_Circuit.v:9]
+INFO: [Synth 8-11241] undeclared symbol 'mode', assumed default net type 'wire' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/DR.v:9]
+INFO: [Synth 8-11241] undeclared symbol 'Q', assumed default net type 'wire' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Processor.v:21]
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:06 ; elapsed = 00:00:10 . Memory (MB): peak = 891.449 ; gain = 411.109
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'Processor' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Processor.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Decoder' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Decoder.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Decoder' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Decoder.v:3]
+INFO: [Synth 8-6157] synthesizing module 'CL' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Control.v:3]
+INFO: [Synth 8-6157] synthesizing module 'DFF' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/DFF.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'DFF' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/DFF.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'CL' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Control.v:3]
+INFO: [Synth 8-6157] synthesizing module 'PC' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/PC.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'PC' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/PC.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Mult' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/MUX.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Mux21' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Mux21.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Mux21' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Mux21.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Mult' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/MUX.v:3]
+WARNING: [Synth 8-689] width (36) of port connection 'A' does not match port width (5) of module 'Mult' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Processor.v:13]
+INFO: [Synth 8-6157] synthesizing module 'MAR' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/MAR.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Comb_Circuit' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Comb_Circuit.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Comb_Circuit' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Comb_Circuit.v:3]
+INFO: [Synth 8-6157] synthesizing module 'D_FF' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/D_FF.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'D_FF' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/D_FF.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'MAR' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/MAR.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Memory' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Memory.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Memory' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Memory.v:3]
+INFO: [Synth 8-6157] synthesizing module 'MDR' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/MDR.v:3]
+INFO: [Synth 8-6157] synthesizing module 'IR' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/IR.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'IR' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/IR.v:3]
+INFO: [Synth 8-6157] synthesizing module 'DR' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/DR.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'DR' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/DR.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'MDR' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/MDR.v:3]
+INFO: [Synth 8-6157] synthesizing module 'B' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/B.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'B' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/B.v:3]
+INFO: [Synth 8-6157] synthesizing module 'ACC' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/ACC.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'ACC' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/ACC.v:3]
+WARNING: [Synth 8-689] width (1) of port connection 'Q' does not match port width (4) of module 'ACC' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Processor.v:21]
+INFO: [Synth 8-6157] synthesizing module 'ALU' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/ALU.v:3]
+INFO: [Synth 8-6157] synthesizing module 'One_Stage' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/One_Stage.v:3]
+INFO: [Synth 8-6157] synthesizing module 'FA' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/FA.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'FA' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/FA.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'One_Stage' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/One_Stage.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'ALU' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/ALU.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Stat_Reg' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/SR.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Stat_Reg' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/SR.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Shifter' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Shifter.v:3]
+INFO: [Synth 8-6157] synthesizing module 'MUX' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Mux41.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'MUX' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Mux41.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Shifter' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Shifter.v:3]
+INFO: [Synth 8-6157] synthesizing module 'A' [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/A.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'A' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/A.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Processor' (0#1) [D:/Verilog Projects/Checking_2/Checking_2.srcs/sources_1/new/Processor.v:3]
+WARNING: [Synth 8-7129] Port S[15] in module CL is either unconnected or has no load
+WARNING: [Synth 8-7129] Port S[14] in module CL is either unconnected or has no load
+WARNING: [Synth 8-7129] Port S[13] in module CL is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:07 ; elapsed = 00:00:13 . Memory (MB): peak = 983.488 ; gain = 503.148
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:08 ; elapsed = 00:00:13 . Memory (MB): peak = 983.488 ; gain = 503.148
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a200tfbg676-2
+INFO: [Device 21-403] Loading part xc7a200tfbg676-2
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:08 ; elapsed = 00:00:13 . Memory (MB): peak = 983.488 ; gain = 503.148
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:08 ; elapsed = 00:00:14 . Memory (MB): peak = 986.062 ; gain = 505.723
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input    5 Bit       Adders := 1     
++---XORs : 
+	   3 Input      1 Bit         XORs := 4     
+	   2 Input      1 Bit         XORs := 1     
++---Registers : 
+	                5 Bit    Registers := 1     
+	                1 Bit    Registers := 52    
++---Muxes : 
+	   2 Input    1 Bit        Muxes := 5     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 740 (col length:100)
+BRAMs: 730 (col length: RAMB18 100 RAMB36 50)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:13 ; elapsed = 00:00:25 . Memory (MB): peak = 1230.766 ; gain = 750.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+ROM: Preliminary Mapping Report
++------------+------------+---------------+----------------+
+|Module Name | RTL Object | Depth x Width | Implemented As | 
++------------+------------+---------------+----------------+
+|Memory      | Inst       | 32x8          | LUT            | 
+|Processor   | M5/Inst    | 32x8          | LUT            | 
++------------+------------+---------------+----------------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:13 ; elapsed = 00:00:25 . Memory (MB): peak = 1230.766 ; gain = 750.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:13 ; elapsed = 00:00:25 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+------+------+
+|      |Cell  |Count |
++------+------+------+
+|1     |BUFG  |     1|
+|2     |LUT1  |     3|
+|3     |LUT2  |    10|
+|4     |LUT3  |     2|
+|5     |LUT4  |     9|
+|6     |LUT5  |    37|
+|7     |LUT6  |    22|
+|8     |FDCE  |    23|
+|9     |FDPE  |     1|
+|10    |FDRE  |    29|
+|11    |IBUF  |     3|
+|12    |OBUF  |    68|
+|13    |OBUFT |     4|
++------+------+------+
+
+Report Instance Areas: 
++------+-------------+---------+------+
+|      |Instance     |Module   |Cells |
++------+-------------+---------+------+
+|1     |top          |         |   212|
+|2     |  M1         |CL       |    74|
+|3     |    D0       |DFF      |     1|
+|4     |    D1       |DFF_29   |     3|
+|5     |    D10      |DFF_30   |     1|
+|6     |    D11      |DFF_31   |    11|
+|7     |    D12      |DFF_32   |     1|
+|8     |    D13      |DFF_33   |     1|
+|9     |    D14      |DFF_34   |     2|
+|10    |    D15      |DFF_35   |     4|
+|11    |    D16      |DFF_36   |     1|
+|12    |    D17      |DFF_37   |     1|
+|13    |    D18      |DFF_38   |     2|
+|14    |    D2       |DFF_39   |     5|
+|15    |    D3       |DFF_40   |     1|
+|16    |    D4       |DFF_41   |     2|
+|17    |    D5       |DFF_42   |     2|
+|18    |    D6       |DFF_43   |     1|
+|19    |    D7       |DFF_44   |     5|
+|20    |    D8       |DFF_45   |    25|
+|21    |    D9       |DFF_46   |     5|
+|22    |  M11        |Stat_Reg |     4|
+|23    |    Carry    |D_FF_25  |     1|
+|24    |    Sign     |D_FF_26  |     1|
+|25    |    Zero     |D_FF_27  |     1|
+|26    |    oVerflow |D_FF_28  |     1|
+|27    |  M13        |A        |     5|
+|28    |    T1       |D_FF_21  |     1|
+|29    |    T2       |D_FF_22  |     1|
+|30    |    T3       |D_FF_23  |     1|
+|31    |    T4       |D_FF_24  |     2|
+|32    |  M2         |PC       |    10|
+|33    |  M4         |MAR      |    13|
+|34    |    T1       |D_FF_16  |     9|
+|35    |    T2       |D_FF_17  |     1|
+|36    |    T3       |D_FF_18  |     1|
+|37    |    T4       |D_FF_19  |     1|
+|38    |    T5       |D_FF_20  |     1|
+|39    |  M6         |MDR      |    22|
+|40    |    D0       |DR       |     4|
+|41    |      T1     |D_FF_12  |     1|
+|42    |      T2     |D_FF_13  |     1|
+|43    |      T3     |D_FF_14  |     1|
+|44    |      T4     |D_FF_15  |     1|
+|45    |    I0       |IR       |    18|
+|46    |      T1     |D_FF_8   |     8|
+|47    |      T2     |D_FF_9   |     2|
+|48    |      T3     |D_FF_10  |     7|
+|49    |      T4     |D_FF_11  |     1|
+|50    |  M7         |B        |     4|
+|51    |    T1       |D_FF_4   |     1|
+|52    |    T2       |D_FF_5   |     1|
+|53    |    T3       |D_FF_6   |     1|
+|54    |    T4       |D_FF_7   |     1|
+|55    |  M9         |B_0      |     4|
+|56    |    T1       |D_FF     |     1|
+|57    |    T2       |D_FF_1   |     1|
+|58    |    T3       |D_FF_2   |     1|
+|59    |    T4       |D_FF_3   |     1|
++------+-------------+---------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 6 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+Synthesis Optimization Complete : Time (s): cpu = 00:00:18 ; elapsed = 00:00:33 . Memory (MB): peak = 1236.797 ; gain = 756.457
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.015 . Memory (MB): peak = 1240.594 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1340.461 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Synth Design complete | Checksum: f1f4b21c
+INFO: [Common 17-83] Releasing license: Synthesis
+66 Infos, 6 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:22 ; elapsed = 00:00:41 . Memory (MB): peak = 1340.461 ; gain = 867.953
+INFO: [Common 17-1381] The checkpoint 'D:/Verilog Projects/Checking_2/Checking_2.runs/synth_1/Processor.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file Processor_utilization_synth.rpt -pb Processor_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Thu Dec 14 12:53:17 2023...

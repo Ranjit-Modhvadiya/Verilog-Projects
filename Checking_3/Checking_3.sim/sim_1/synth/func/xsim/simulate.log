@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+                   0Opcode = x, clk = 0, s = 1, Control = xxxx, T = xxxxx
+                   0Opcode = x, clk = 0, s = 1, Control = 0000, T = 00000
+                  10Opcode = x, clk = 1, s = 1, Control = 0000, T = 00000
+                  20Opcode = 0, clk = 0, s = 0, Control = 0000, T = 00000
+                  30Opcode = 0, clk = 1, s = 0, Control = 0000, T = 00000
+                  40Opcode = 0, clk = 0, s = 0, Control = 0000, T = 00000
+                  50Opcode = 0, clk = 1, s = 0, Control = 0000, T = 00000
+                  60Opcode = 0, clk = 0, s = 0, Control = 0000, T = 00000
+                  70Opcode = 0, clk = 1, s = 0, Control = 0000, T = 00000
+                  80Opcode = 0, clk = 0, s = 0, Control = 0000, T = 00000
+                  90Opcode = 0, clk = 1, s = 0, Control = 0000, T = 00000
+                 100Opcode = 1, clk = 0, s = 0, Control = 0000, T = 00000
+                 110Opcode = 1, clk = 1, s = 0, Control = 0000, T = 00000
+                 120Opcode = 1, clk = 0, s = 0, Control = 0000, T = 00000
+                 130Opcode = 1, clk = 1, s = 0, Control = 0000, T = 00000
+                 140Opcode = 1, clk = 0, s = 0, Control = 0000, T = 00000
+                 150Opcode = 1, clk = 1, s = 0, Control = 0000, T = 00000
+                 160Opcode = 1, clk = 0, s = 0, Control = 0000, T = 00000
+                 170Opcode = 1, clk = 1, s = 0, Control = 0000, T = 00000
+                 180Opcode = 1, clk = 0, s = 0, Control = 0000, T = 00000
+                 190Opcode = 1, clk = 1, s = 0, Control = 0000, T = 00000
+$finish called at time : 200 ns : File "D:/Verilog Projects/Checking_3/Checking_3.srcs/sim_1/new/Test.v" Line 23

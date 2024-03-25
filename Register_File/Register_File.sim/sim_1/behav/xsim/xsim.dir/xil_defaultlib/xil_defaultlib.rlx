@@ -1,0 +1,12 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/Verilog Projects/Register_File/Register_File.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+,,,,,,Test,,,,,,,,
+D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/Comb_Circuit.v,1696443446,verilog,,D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/D_FF.v,,Comb_Circuit,,,,,,,,
+D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/D_FF.v,1696442705,verilog,,D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/Decoder.v,,D_FF,,,,,,,,
+D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/Decoder.v,1696442334,verilog,,D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/Mux.v,,Decoder,,,,,,,,
+,,,,D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/Reg_File.v,,MUX,,,,,,,,
+,,,,D:/Verilog Projects/Register_File/Register_File.srcs/sources_1/new/Temp_Reg.v,,Reg_File,,,,,,,,
+,,,,D:/Verilog Projects/Register_File/Register_File.srcs/sim_1/new/test.v,,Temp_Reg,,,,,,,,

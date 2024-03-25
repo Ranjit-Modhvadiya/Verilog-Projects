@@ -1,0 +1,22 @@
+Time resolution is 1 ps
+                   0Count = 01, En = 0, clk = 0, Address = xx
+                  10Count = 01, En = 0, clk = 1, Address = xx
+                  20Count = 01, En = 0, clk = 0, Address = xx
+                  30Count = 01, En = 0, clk = 1, Address = xx
+                  40Count = 01, En = 1, clk = 0, Address = xx
+                  50Count = 01, En = 1, clk = 1, Address = 01
+                  60Count = 01, En = 1, clk = 0, Address = 01
+                  70Count = 01, En = 1, clk = 1, Address = 01
+                  80Count = 02, En = 1, clk = 0, Address = 01
+                  90Count = 02, En = 1, clk = 1, Address = 02
+                 100Count = 02, En = 1, clk = 0, Address = 02
+                 110Count = 02, En = 1, clk = 1, Address = 02
+                 120Count = 03, En = 1, clk = 0, Address = 02
+                 130Count = 03, En = 1, clk = 1, Address = 03
+                 140Count = 03, En = 1, clk = 0, Address = 03
+                 150Count = 03, En = 1, clk = 1, Address = 03
+                 160Count = 04, En = 1, clk = 0, Address = 03
+                 170Count = 04, En = 1, clk = 1, Address = 04
+                 180Count = 04, En = 1, clk = 0, Address = 04
+                 190Count = 04, En = 1, clk = 1, Address = 04
+$finish called at time : 200 ns : File "D:/Verilog Projects/Memory Address Register/Memory Address Register.srcs/sim_1/new/Test.v" Line 24

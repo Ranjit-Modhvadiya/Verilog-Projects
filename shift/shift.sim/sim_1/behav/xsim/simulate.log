@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+                   0S = 5, H = 00, Y = 5
+                  20S = 5, H = 01, Y = a
+                  40S = 5, H = 10, Y = 2
+                  60S = 5, H = 11, Y = 0
+                  80S = a, H = 00, Y = a
+                 100S = a, H = 01, Y = 4
+                 120S = a, H = 10, Y = 5
+                 140S = a, H = 11, Y = 0
+                 160S = 6, H = 00, Y = 6
+                 180S = 6, H = 01, Y = c
+                 200S = 6, H = 10, Y = 3
+                 220S = 6, H = 11, Y = 0
+$finish called at time : 240 ns : File "D:/Verilog Projects/shift/shift.srcs/sim_1/new/test.v" Line 29

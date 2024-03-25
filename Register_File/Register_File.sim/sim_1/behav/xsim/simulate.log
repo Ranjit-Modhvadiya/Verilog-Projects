@@ -1,0 +1,28 @@
+Time resolution is 1 ps
+                   0D = 1, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 0, Q3 = x
+                   5D = 1, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 1, Q3 = 1
+                  10D = 1, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 0, Q3 = 1
+                  15D = 1, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 1, Q3 = 1
+                  20D = 2, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 0, Q3 = 1
+                  25D = 2, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 1, Q3 = 2
+                  30D = 2, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 0, Q3 = 2
+                  35D = 2, D0 = 0, D1 = 0, M0 = 0, M1 = 0, En3 = 1, clk = 1, Q3 = 2
+                  40D = 2, D0 = 0, D1 = 1, M0 = 0, M1 = 1, En3 = 1, clk = 0, Q3 = x
+                  45D = 2, D0 = 0, D1 = 1, M0 = 0, M1 = 1, En3 = 1, clk = 1, Q3 = 2
+                  50D = 3, D0 = 0, D1 = 1, M0 = 0, M1 = 1, En3 = 1, clk = 0, Q3 = 2
+                  55D = 3, D0 = 0, D1 = 1, M0 = 0, M1 = 1, En3 = 1, clk = 1, Q3 = 3
+                  60D = 3, D0 = 0, D1 = 0, M0 = 1, M1 = 0, En3 = 1, clk = 0, Q3 = 0
+                  65D = 3, D0 = 0, D1 = 0, M0 = 1, M1 = 0, En3 = 1, clk = 1, Q3 = 0
+                  70D = 3, D0 = 1, D1 = 0, M0 = 1, M1 = 0, En3 = 1, clk = 0, Q3 = 0
+                  75D = 3, D0 = 1, D1 = 0, M0 = 1, M1 = 0, En3 = 1, clk = 1, Q3 = 0
+                  80D = 4, D0 = 1, D1 = 0, M0 = 1, M1 = 0, En3 = 1, clk = 0, Q3 = 0
+                  85D = 4, D0 = 1, D1 = 0, M0 = 1, M1 = 0, En3 = 1, clk = 1, Q3 = 0
+                  90D = 4, D0 = 1, D1 = 0, M0 = 1, M1 = 1, En3 = 1, clk = 0, Q3 = x
+                  95D = 4, D0 = 1, D1 = 0, M0 = 1, M1 = 1, En3 = 1, clk = 1, Q3 = x
+                 100D = 4, D0 = 1, D1 = 1, M0 = 1, M1 = 1, En3 = 1, clk = 0, Q3 = x
+                 105D = 4, D0 = 1, D1 = 1, M0 = 1, M1 = 1, En3 = 1, clk = 1, Q3 = 4
+                 110D = 5, D0 = 1, D1 = 1, M0 = 0, M1 = 0, En3 = 1, clk = 0, Q3 = 3
+                 115D = 5, D0 = 1, D1 = 1, M0 = 0, M1 = 0, En3 = 1, clk = 1, Q3 = 3
+                 120D = 5, D0 = 1, D1 = 1, M0 = 0, M1 = 0, En3 = 1, clk = 0, Q3 = 3
+                 125D = 5, D0 = 1, D1 = 1, M0 = 0, M1 = 0, En3 = 1, clk = 1, Q3 = 3
+$finish called at time : 130 ns : File "D:/Verilog Projects/Register_File/Register_File.srcs/sim_1/new/test.v" Line 28

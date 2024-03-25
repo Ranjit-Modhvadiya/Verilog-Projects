@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MDR.srcs/sources_1/new/Comb_Circuit.v" \
+"../../../../MDR.srcs/sources_1/new/D_FF.v" \
+"../../../../MDR.srcs/sources_1/new/Decoder.v" \
+"../../../../MDR.srcs/sources_1/new/Temp_Reg.v" \
+"../../../../MDR.srcs/sources_1/new/MDR.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

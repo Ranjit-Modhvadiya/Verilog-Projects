@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+                   0Opcode = 0000, Operation = 0001
+                  20Opcode = 0001, Operation = 0002
+                  40Opcode = 0010, Operation = 0004
+                  60Opcode = 0011, Operation = 0008
+                  80Opcode = 0100, Operation = 0010
+                 100Opcode = 0101, Operation = 0020
+                 120Opcode = 0110, Operation = 0040
+                 140Opcode = 0111, Operation = 0080
+                 160Opcode = 1001, Operation = 0200
+                 180Opcode = 1010, Operation = 0400
+                 200Opcode = 1011, Operation = 0800
+                 220Opcode = 1100, Operation = 1000
+                 240Opcode = 1101, Operation = 2000
+                 260Opcode = 1110, Operation = 4000
+                 280Opcode = 1111, Operation = 8000

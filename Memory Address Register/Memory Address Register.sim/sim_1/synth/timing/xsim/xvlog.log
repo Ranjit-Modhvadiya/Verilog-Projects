@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Memory Address Register/Memory Address Register.sim/sim_1/synth/timing/xsim/Temp_Reg_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF
+INFO: [VRFC 10-311] analyzing module DFF_0
+INFO: [VRFC 10-311] analyzing module DFF_1
+INFO: [VRFC 10-311] analyzing module DFF_2
+INFO: [VRFC 10-311] analyzing module DFF_3
+INFO: [VRFC 10-311] analyzing module Temp_Reg
+INFO: [VRFC 10-311] analyzing module glbl

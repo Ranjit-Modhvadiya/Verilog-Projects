@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Register_File/Register_File.sim/sim_1/synth/timing/xsim/Test_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Test
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Register_File/Register_File.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Test
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Test' [D:/Verilog Projects/Register_File/Register_File.srcs/sim_1/new/test.v:3]

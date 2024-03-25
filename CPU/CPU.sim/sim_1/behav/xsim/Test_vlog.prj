@@ -1,0 +1,31 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CPU.srcs/sources_1/new/ACC.v" \
+"../../../../CPU.srcs/sources_1/new/ALU.v" \
+"../../../../CPU.srcs/sources_1/new/B.v" \
+"../../../../CPU.srcs/sources_1/new/CL.v" \
+"../../../../CPU.srcs/sources_1/new/Comb_Circuit.v" \
+"../../../../CPU.srcs/sources_1/new/DFF.v" \
+"../../../../CPU.srcs/sources_1/new/DR.v" \
+"../../../../CPU.srcs/sources_1/new/D_FF.v" \
+"../../../../CPU.srcs/sources_1/new/FA.v" \
+"../../../../CPU.srcs/sources_1/new/ID.v" \
+"../../../../CPU.srcs/sources_1/new/IR.v" \
+"../../../../CPU.srcs/sources_1/new/MAR.v" \
+"../../../../CPU.srcs/sources_1/new/MDR.v" \
+"../../../../CPU.srcs/sources_1/new/MUXs.v" \
+"../../../../CPU.srcs/sources_1/new/Memory.v" \
+"../../../../CPU.srcs/sources_1/new/Mult.v" \
+"../../../../CPU.srcs/sources_1/new/Mux21.v" \
+"../../../../CPU.srcs/sources_1/new/One_Stage.v" \
+"../../../../CPU.srcs/sources_1/new/PC.v" \
+"../../../../CPU.srcs/sources_1/new/SR.v" \
+"../../../../CPU.srcs/sources_1/new/Shift.v" \
+"../../../../CPU.srcs/sources_1/new/Unit.v" \
+"../../../../CPU.srcs/sim_1/new/Test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Dec  7 12:53:27 2023
+# Process ID: 17672
+# Current directory: D:/Verilog Projects/ID/ID.runs/synth_1
+# Command line: vivado.exe -log Decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Decoder.tcl
+# Log file: D:/Verilog Projects/ID/ID.runs/synth_1/Decoder.vds
+# Journal file: D:/Verilog Projects/ID/ID.runs/synth_1\vivado.jou
+# Running On: Terry, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 8, Host memory: 6349 MB
+#-----------------------------------------------------------
+source Decoder.tcl -notrace

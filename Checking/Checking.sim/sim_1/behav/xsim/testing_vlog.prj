@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Checking.srcs/sources_1/new/Control Logic.v" \
+"../../../../Checking.srcs/sources_1/new/DFF.v" \
+"../../../../Checking.srcs/sources_1/new/ID.v" \
+"../../../../Checking.srcs/sources_1/new/JKFF.v" \
+"../../../../Checking.srcs/sources_1/new/PC.v" \
+"../../../../Checking.srcs/sources_1/new/Unit.v" \
+"../../../../Checking.srcs/sim_1/new/testing.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

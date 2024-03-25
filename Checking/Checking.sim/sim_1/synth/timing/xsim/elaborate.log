@@ -1,0 +1,57 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot testing_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.testing xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "testing_time_synth.sdf", for root module "testing/U0".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "testing_time_synth.sdf", for root module "testing/U0".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3(INIT=8'b01010010)
+Compiling module simprims_ver.FDRE_default
+Compiling module xil_defaultlib.DFF
+Compiling module xil_defaultlib.DFF_4
+Compiling module xil_defaultlib.DFF_5
+Compiling module xil_defaultlib.DFF_6
+Compiling module simprims_ver.LUT4
+Compiling module xil_defaultlib.DFF_7
+Compiling module xil_defaultlib.DFF_8
+Compiling module xil_defaultlib.DFF_9
+Compiling module xil_defaultlib.DFF_10
+Compiling module xil_defaultlib.DFF_11
+Compiling module xil_defaultlib.DFF_12
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2(INIT=4'b1110)
+Compiling module xil_defaultlib.DFF_13
+Compiling module xil_defaultlib.DFF_14
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module xil_defaultlib.DFF_15
+Compiling module xil_defaultlib.DFF_16
+Compiling module xil_defaultlib.DFF_17
+Compiling module xil_defaultlib.DFF_18
+Compiling module xil_defaultlib.DFF_19
+Compiling module simprims_ver.LUT6(INIT=64'b111111111111111111...
+Compiling module simprims_ver.LUT5(INIT=32'b111111111111111111...
+Compiling module xil_defaultlib.DFF_20
+Compiling module xil_defaultlib.DFF_21
+Compiling module xil_defaultlib.Control
+Compiling module simprims_ver.OBUF
+Compiling module xil_defaultlib.Decoder
+Compiling module simprims_ver.IBUF
+Compiling module xil_defaultlib.JKFF
+Compiling module xil_defaultlib.JKFF_0
+Compiling module xil_defaultlib.JKFF_1
+Compiling module xil_defaultlib.JKFF_2
+Compiling module xil_defaultlib.JKFF_3
+Compiling module xil_defaultlib.PC
+Compiling module simprims_ver.BUFG
+Compiling module xil_defaultlib.Unit
+Compiling module xil_defaultlib.testing
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testing_time_synth

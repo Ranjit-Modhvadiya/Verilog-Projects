@@ -1,0 +1,48 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot Test_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.Test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 13 differs from formal bit length 14 for port 'Control' [D:/Verilog Projects/Control Logic/Control Logic.srcs/sim_1/new/Test.v:9]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "Test_time_synth.sdf", for root module "Test/C0".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "Test_time_synth.sdf", for root module "Test/C0".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.FDRE_default
+Compiling module xil_defaultlib.DFF
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module xil_defaultlib.DFF_0
+Compiling module xil_defaultlib.DFF_1
+Compiling module xil_defaultlib.DFF_2
+Compiling module xil_defaultlib.DFF_3
+Compiling module simprims_ver.LUT4
+Compiling module xil_defaultlib.DFF_4
+Compiling module xil_defaultlib.DFF_5
+Compiling module xil_defaultlib.DFF_6
+Compiling module xil_defaultlib.DFF_7
+Compiling module xil_defaultlib.DFF_8
+Compiling module xil_defaultlib.DFF_9
+Compiling module xil_defaultlib.DFF_10
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module xil_defaultlib.DFF_11
+Compiling module xil_defaultlib.DFF_12
+Compiling module xil_defaultlib.DFF_13
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT6
+Compiling module xil_defaultlib.DFF_14
+Compiling module xil_defaultlib.DFF_15
+Compiling module xil_defaultlib.DFF_16
+Compiling module xil_defaultlib.DFF_17
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.BUFG
+Compiling module xil_defaultlib.Control
+Compiling module xil_defaultlib.Test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Test_time_synth

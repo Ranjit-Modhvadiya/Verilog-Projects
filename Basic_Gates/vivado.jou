@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sat Sep 16 14:01:08 2023
+# Process ID: 8260
+# Current directory: D:/Verilog Projects/Basic_Gates
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13544 D:\Verilog Projects\Basic_Gates\Basic_Gates.xpr
+# Log file: D:/Verilog Projects/Basic_Gates/vivado.log
+# Journal file: D:/Verilog Projects/Basic_Gates\vivado.jou
+# Running On: Terry, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 8, Host memory: 6352 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Verilog Projects/Basic_Gates/Basic_Gates.xpr}
+update_compile_order -fileset sources_1

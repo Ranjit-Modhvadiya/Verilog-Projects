@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.sim/sim_1/synth/timing/xsim/testing_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-311] analyzing module DFF
+INFO: [VRFC 10-311] analyzing module DFF_10
+INFO: [VRFC 10-311] analyzing module DFF_11
+INFO: [VRFC 10-311] analyzing module DFF_12
+INFO: [VRFC 10-311] analyzing module DFF_13
+INFO: [VRFC 10-311] analyzing module DFF_14
+INFO: [VRFC 10-311] analyzing module DFF_15
+INFO: [VRFC 10-311] analyzing module DFF_16
+INFO: [VRFC 10-311] analyzing module DFF_17
+INFO: [VRFC 10-311] analyzing module DFF_18
+INFO: [VRFC 10-311] analyzing module DFF_19
+INFO: [VRFC 10-311] analyzing module DFF_20
+INFO: [VRFC 10-311] analyzing module DFF_21
+INFO: [VRFC 10-311] analyzing module DFF_4
+INFO: [VRFC 10-311] analyzing module DFF_5
+INFO: [VRFC 10-311] analyzing module DFF_6
+INFO: [VRFC 10-311] analyzing module DFF_7
+INFO: [VRFC 10-311] analyzing module DFF_8
+INFO: [VRFC 10-311] analyzing module DFF_9
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-311] analyzing module JKFF
+INFO: [VRFC 10-311] analyzing module JKFF_0
+INFO: [VRFC 10-311] analyzing module JKFF_1
+INFO: [VRFC 10-311] analyzing module JKFF_2
+INFO: [VRFC 10-311] analyzing module JKFF_3
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module Unit
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sim_1/new/testing.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testing

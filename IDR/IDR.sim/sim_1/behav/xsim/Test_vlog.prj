@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../IDR.srcs/sources_1/new/Comb_Circuit.v" \
+"../../../../IDR.srcs/sources_1/new/DR.v" \
+"../../../../IDR.srcs/sources_1/new/D_FF.v" \
+"../../../../IDR.srcs/sources_1/new/IDR.v" \
+"../../../../IDR.srcs/sources_1/new/IR.v" \
+"../../../../IDR.srcs/sim_1/new/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

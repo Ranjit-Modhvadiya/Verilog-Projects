@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Control Logic/Control Logic.sim/sim_1/synth/timing/xsim/Test_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-311] analyzing module DFF
+INFO: [VRFC 10-311] analyzing module DFF_0
+INFO: [VRFC 10-311] analyzing module DFF_1
+INFO: [VRFC 10-311] analyzing module DFF_10
+INFO: [VRFC 10-311] analyzing module DFF_11
+INFO: [VRFC 10-311] analyzing module DFF_12
+INFO: [VRFC 10-311] analyzing module DFF_13
+INFO: [VRFC 10-311] analyzing module DFF_14
+INFO: [VRFC 10-311] analyzing module DFF_15
+INFO: [VRFC 10-311] analyzing module DFF_16
+INFO: [VRFC 10-311] analyzing module DFF_17
+INFO: [VRFC 10-311] analyzing module DFF_2
+INFO: [VRFC 10-311] analyzing module DFF_3
+INFO: [VRFC 10-311] analyzing module DFF_4
+INFO: [VRFC 10-311] analyzing module DFF_5
+INFO: [VRFC 10-311] analyzing module DFF_6
+INFO: [VRFC 10-311] analyzing module DFF_7
+INFO: [VRFC 10-311] analyzing module DFF_8
+INFO: [VRFC 10-311] analyzing module DFF_9
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Control Logic/Control Logic.srcs/sim_1/new/Test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Test

@@ -1,0 +1,32 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Checking_2.srcs/sources_1/new/A.v" \
+"../../../../Checking_2.srcs/sources_1/new/ACC.v" \
+"../../../../Checking_2.srcs/sources_1/new/ALU.v" \
+"../../../../Checking_2.srcs/sources_1/new/B.v" \
+"../../../../Checking_2.srcs/sources_1/new/Comb_Circuit.v" \
+"../../../../Checking_2.srcs/sources_1/new/Control.v" \
+"../../../../Checking_2.srcs/sources_1/new/DFF.v" \
+"../../../../Checking_2.srcs/sources_1/new/DR.v" \
+"../../../../Checking_2.srcs/sources_1/new/D_FF.v" \
+"../../../../Checking_2.srcs/sources_1/new/Decoder.v" \
+"../../../../Checking_2.srcs/sources_1/new/FA.v" \
+"../../../../Checking_2.srcs/sources_1/new/IR.v" \
+"../../../../Checking_2.srcs/sources_1/new/MAR.v" \
+"../../../../Checking_2.srcs/sources_1/new/MDR.v" \
+"../../../../Checking_2.srcs/sources_1/new/MUX.v" \
+"../../../../Checking_2.srcs/sources_1/new/Memory.v" \
+"../../../../Checking_2.srcs/sources_1/new/Mux21.v" \
+"../../../../Checking_2.srcs/sources_1/new/Mux41.v" \
+"../../../../Checking_2.srcs/sources_1/new/One_Stage.v" \
+"../../../../Checking_2.srcs/sources_1/new/PC.v" \
+"../../../../Checking_2.srcs/sources_1/new/Processor.v" \
+"../../../../Checking_2.srcs/sources_1/new/SR.v" \
+"../../../../Checking_2.srcs/sources_1/new/Shifter.v" \
+"../../../../Checking_2.srcs/sim_1/new/Test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

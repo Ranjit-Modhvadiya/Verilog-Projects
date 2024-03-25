@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+                   0Control = 0, Count = xx
+                   0Control = 0, Count = 1f
+                 100Control = 1, Count = 1f
+                 100Control = 1, Count = 1e
+                 100Control = 1, Count = 1c
+                 100Control = 1, Count = 18
+                 100Control = 1, Count = 10
+                 101Control = 1, Count = 00
+                 200Control = 0, Count = 00
+                 300Control = 1, Count = 00
+                 300Control = 1, Count = 01
+                 400Control = 0, Count = 01
+                 500Control = 1, Count = 01
+                 500Control = 1, Count = 00
+                 500Control = 1, Count = 02
+                 600Control = 0, Count = 02
+                 700Control = 1, Count = 02
+                 700Control = 1, Count = 03
+                 800Control = 0, Count = 03
+                 900Control = 1, Count = 03
+                 900Control = 1, Count = 02
+                 900Control = 1, Count = 00
+                 900Control = 1, Count = 04
+                1000Control = 0, Count = 04

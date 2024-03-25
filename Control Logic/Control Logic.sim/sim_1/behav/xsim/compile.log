@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Control Logic/Control Logic.srcs/sources_1/new/Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Control Logic/Control Logic.srcs/sources_1/new/DFF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Control Logic/Control Logic.srcs/sim_1/new/Test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Test

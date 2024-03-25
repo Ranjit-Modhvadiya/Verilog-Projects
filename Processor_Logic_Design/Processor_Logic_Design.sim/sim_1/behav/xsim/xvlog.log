@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Accumulator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Accumulator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Comb_Circuit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Comb_Circuit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/D_FF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D_FF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/FA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/MDR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MDR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/One_Stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module One_Stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Processor_Logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Processor_Logic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Reg_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shifter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Stat_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Stat_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sources_1/new/Temp_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Temp_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Processor_Logic_Design/Processor_Logic_Design.srcs/sim_1/new/Processor_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Test

@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sources_1/new/Control Logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sources_1/new/DFF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sources_1/new/ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sources_1/new/JKFF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module JKFF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sources_1/new/Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Checking/Checking.srcs/sim_1/new/testing.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testing

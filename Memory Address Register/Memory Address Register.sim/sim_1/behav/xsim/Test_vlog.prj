@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Memory Address Register.srcs/sources_1/new/Comb_circuit.v" \
+"../../../../Memory Address Register.srcs/sources_1/new/DFF.v" \
+"../../../../Memory Address Register.srcs/sources_1/new/MAR.v" \
+"../../../../Memory Address Register.srcs/sim_1/new/Test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

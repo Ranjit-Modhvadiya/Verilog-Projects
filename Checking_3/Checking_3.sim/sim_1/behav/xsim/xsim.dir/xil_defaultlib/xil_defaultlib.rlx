@@ -1,0 +1,26 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/Verilog Projects/Checking_3/Checking_3.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sim_1/new/Test.v,1702375280,verilog,,,,Test,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/ACC.v,1702373891,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/ALU.v,,ACC,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/ALU.v,1702374573,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/B.v,,ALU,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/B.v,1702373904,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/CL.v,,B,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/CL.v,1702398658,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Comb_Circuit.v,,Control,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Comb_Circuit.v,1702365517,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/DFF.v,,Comb_Circuit,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/DFF.v,1702370806,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/D_FF.v,,DFF,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/DR.v,1702369472,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Decoder.v,,DR,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/D_FF.v,1702373873,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Decoder.v,,D_FF,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Decoder.v,1702300370,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/FA.v,,Decoder,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/FA.v,1702374686,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Memory.v,,FA,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/IR.v,1702369461,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/MAR.v,,IR,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/JKFF.v,1702285064,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/PC.v,,JKFF,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/MAR.v,1702367736,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Memory.v,,MAR,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/MDR.v,1702369385,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Memory.v,,MDR,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Memory.v,1702369304,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Mult.v,,Memory,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Mult.v,1702365465,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Mux21.v,,Mult,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Mux21.v,1702365462,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/One_Stage.v,,Mux21,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/One_Stage.v,1702374663,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/PC.v,,One_Stage,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/PC.v,1702364542,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Unit.v,,PC,,,,,,,,
+D:/Verilog Projects/Checking_3/Checking_3.srcs/sources_1/new/Unit.v,1702374758,verilog,,D:/Verilog Projects/Checking_3/Checking_3.srcs/sim_1/new/Test.v,,Unit,,,,,,,,
